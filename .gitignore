@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore directories
 downloaded_threads/
 markdown_files/
@@ -9,4 +10,17 @@ venv/
 .env
 preprocess.py
 *.pyc
+=======
+# Ignore directories
+downloaded_threads/
+markdown_files/
+__pycache__/
+venv/
+.venv/
+
+# Ignore files
+.env
+preprocess.py
+*.pyc
+>>>>>>> 1cea45595f8690c529e1b4b0d631da43b58141b5
 .DS_Store

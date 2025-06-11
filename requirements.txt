@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 python-dotenv
@@ -9,4 +10,17 @@ html2text
 tqdm
 markdown
 python-multipart
+=======
+fastapi
+uvicorn
+python-dotenv
+aiohttp
+numpy
+pydantic
+beautifulsoup4
+html2text
+tqdm
+markdown
+python-multipart
+>>>>>>> 1cea45595f8690c529e1b4b0d631da43b58141b5
 setuptools
