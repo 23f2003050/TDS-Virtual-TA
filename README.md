@@ -50,7 +50,7 @@ Follow these instructions to set up and run the project locally.
 
 ### **2\. Clone the Repository**
 
-git clone \[(https://github.com/23f2003050/TDS-Virtual-TA.git)]
+git clone \ https://github.com/23f2003050/TDS-Virtual-TA.git
 
 ### **3\. Set Up a Virtual Environment**
 
